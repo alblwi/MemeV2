@@ -25,7 +25,7 @@ class SentMemesCollectionVC: UICollectionViewController, UICollectionViewDelegat
     }
     override func viewDidLoad() {
         super.viewDidLoad()
-        collectionView.backgroundColor = .orange
+        collectionView.backgroundColor = .white
     }
     
     override func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
